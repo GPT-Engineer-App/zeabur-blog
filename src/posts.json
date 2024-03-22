@@ -8,10 +8,5 @@
     "id": 2,
     "title": "My Second Blog Post",
     "body": "Pellentesque euismod, nisi eu consectetur consectetur, nisl nisl aliquam nisl, nec aliquam nisl nisl sit amet nisl."
-  },
-  {
-    "id": 3,
-    "title": "An Example Blog Post",
-    "body": "This is an example blog post to demonstrate how new articles can be easily added to the blog by updating the posts.json file."
   }
 ]
